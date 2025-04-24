@@ -8,8 +8,8 @@ I'm a **Mobile and Game Developer** passionate about creating **2D games** with 
 - **Skills**: Unity, C#, Flutter, Dart, Riverpod, Firebase, RESTful APIs, UI/UX, App Deployment.
 
 ## 🌟 Featured Projects
-- **[Game Project Name]** - A 2D Unity game with [e.g., physics-based puzzles]. ([Link to repo])
-- **[App Project Name]** - A Flutter app with Riverpod and Firebase for [e.g., real-time chat]. ([Link to repo])
+- **[ThreePairCard]** - A 2D Unity game with [e.g., physics-based puzzles]. [(https://github.com/Gumiho2504/ThreePairCard)]
+- **[ajip_mobile_app]** - A Flutter app with Riverpod and Firebase for [e.g., real-time chat]. (https://github.com/Gumiho2504/ajip_mobile_app)
 ## 🌟 Public Projects
 - **[Project Name 1]** - A 2D Unity game featuring [e.g., physics-based gameplay]. ([Link to repo])
 - **[Project Name 2]** - A Flutter app with Riverpod and Firebase for [e.g., real-time features]. ([Link to repo])
