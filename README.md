@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Hem chanmetrey!
 
 I'm a **Mobile and Game Developer** passionate about creating **2D games** with **Unity** and **C#**, and building **cross-platform apps** using **Flutter** and **Dart**. I focus on delivering immersive gameplay and intuitive user experiences.
 
@@ -12,10 +12,9 @@ I'm a **Mobile and Game Developer** passionate about creating **2D games** with 
 - **[App Project Name]** - A Flutter app with Riverpod and Firebase for [e.g., real-time chat]. ([Link to repo])
 
 ## 📫 Connect with Me
-- **LinkedIn**: [Your LinkedIn URL]
-- **Email**: [Your Email]
-- **Portfolio**: [Your Portfolio URL]
-
+- **LinkedIn**: www.linkedin.com/in/hem-chanmetrey-aab6a0232
+- **Email**: hemchanmetrey@gmail.com
+- **Portfolio**: 
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gumiho2504&show_icons=true&theme=radical)
 
