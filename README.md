@@ -5,15 +5,17 @@ I'm a **Mobile and Game Developer** passionate about creating **2D games** with 
 ## 🚀 What I Do
 - **Game Development**: Design 2D games with engaging mechanics and physics in Unity. Published on Google Play and Apple App Store.
 - **Mobile Apps**: Develop responsive Flutter apps with Firebase and RESTful APIs, using Riverpod for state management.
+ - **Web Backends**: Build scalable APIs and web apps with Laravel, integrating Livewire and payment gateways like ABA Pay.
 - **Skills**: Unity, C#, Flutter, Dart, Riverpod, Firebase, RESTful APIs, UI/UX, App Deployment.
 
 ## 🌟 Featured Projects
 - **[ThreePairCard]** - A 2D Unity game with [e.g., physics-based puzzles]. [(https://github.com/Gumiho2504/ThreePairCard)]
 - **[ajip_mobile_app]** - A Flutter app with Riverpod and Firebase for [e.g., real-time chat]. (https://github.com/Gumiho2504/ajip_mobile_app)
+- **[ajip_api]** - A Laravel-based  API. (https://github.com/Gumiho2504/ajip_api)
 ## 🌟 Public Projects
-- **[Project Name 1]** - A 2D Unity game featuring [e.g., physics-based gameplay]. ([Link to repo])
-- **[Project Name 2]** - A Flutter app with Riverpod and Firebase for [e.g., real-time features]. ([Link to repo])
-- *Add more projects from your public repositories on [github.com/Gumiho2504](https://github.com/Gumiho2504)*
+- **[CardOparator]** - A 2D Unity game featuring [e.g., physics-based gameplay]. ([https://github.com/Gumiho2504/CardOparator])
+- **[e_commerc_app]** - A Flutter app with Riverpod and Firebase for [e.g., real-time features]. (https://github.com/Gumiho2504/e_commerc_app)
+- **[cloth_ecommerce]** - livewire project (https://github.com/Gumiho2504/cloth_ecommerce)
 ## 📫 Connect with Me
 - **LinkedIn**: www.linkedin.com/in/hem-chanmetrey-aab6a0232
 - **Email**: hemchanmetrey@gmail.com
