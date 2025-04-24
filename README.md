@@ -25,7 +25,7 @@ I'm a **Mobile and Game Developer** with a knack for building **2D games**, **cr
 - **Email**: hemchanmetrey@gmail.com
 - **Portfolio**: 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gumiho2504&show_icons=true&theme=radical)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gumiho2504&show_icons=true&locale=en" alt="gumiho2504" /></p>
 
 
 
@@ -40,7 +40,7 @@ I'm a **Mobile and Game Developer** with a knack for building **2D games**, **cr
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gumiho2504&show_icons=true&locale=en&layout=compact" alt="gumiho2504" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gumiho2504&show_icons=true&locale=en" alt="gumiho2504" /></p>
+
 
 
 
